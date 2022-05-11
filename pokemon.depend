@@ -30,3 +30,51 @@
 
 1652238613 c:\users\anima\onedrive\documentos\pokemongos\pokemon-main\include\pokemon.h
 
+1652281525 source:c:\users\gastona\downloads\pokemon-main\pokemongos\main.cpp
+	<iostream>
+	"Gameplay.h"
+	"FuncionesGlobales.h"
+	"Pokemon.h"
+	"Jugador.h"
+	"Ataque.h"
+
+1652264315 source:c:\users\gastona\downloads\pokemon-main\pokemongos\src\ataques.cpp
+	<iostream>
+	"Ataques.h"
+
+1652264315 c:\users\gastona\downloads\pokemon-main\pokemongos\include\ataques.h
+
+1652282944 source:c:\users\gastona\downloads\pokemon-main\pokemongos\src\funcionesglobales.cpp
+	<iostream>
+	<cstdlib>
+	"FuncionesGlobales.h"
+
+1652283003 c:\users\gastona\downloads\pokemon-main\pokemongos\include\funcionesglobales.h
+	"Ataque.h"
+
+1652264315 source:c:\users\gastona\downloads\pokemon-main\pokemongos\src\gameplay.cpp
+	"Gameplay.h"
+
+1652264315 c:\users\gastona\downloads\pokemon-main\pokemongos\include\gameplay.h
+
+1652264315 source:c:\users\gastona\downloads\pokemon-main\pokemongos\src\jugador.cpp
+	"Jugador.h"
+
+1652264315 c:\users\gastona\downloads\pokemon-main\pokemongos\include\jugador.h
+
+1652296222 source:c:\users\gastona\downloads\pokemon-main\pokemongos\src\pokemon.cpp
+	<iostream>
+	"Pokemon.h"
+	"Ataque.h"
+	<cstdlib>
+	<cstring>
+
+1652297239 c:\users\gastona\downloads\pokemon-main\pokemongos\include\pokemon.h
+	"Ataque.h"
+
+1652297194 source:c:\users\gastona\downloads\pokemon-main\pokemongos\src\ataque.cpp
+	<iostream>
+	"Ataque.h"
+
+1652292703 c:\users\gastona\downloads\pokemon-main\pokemongos\include\ataque.h
+

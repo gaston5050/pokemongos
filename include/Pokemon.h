@@ -1,6 +1,6 @@
 #ifndef POKEMON_H
 #define POKEMON_H
-#include "Ataques.h"
+#include "Ataque.h"
 
 
 class Pokemon
@@ -10,19 +10,32 @@ public:
     ~Pokemon();
     void Cargar();
     void Mostrar();
-    const char  getIdPokemon();
-    const char getAtaque(int aux);
+    //gets
+    const char*  getIdPokemon();
+
     int getDefensa();
-    float getVida();
+    int getVida();
+
+
+    //sets
+    void setId(int);
+    void setNombre(const char*);
+    void setAtaque(int);
+    void setVida(int);
+
+    //metodos
+     bool  leerRegistroPokemon(int);
+    bool grabarPokemonEnDisco(Pokemon);
+
 
 
 
 private:
     char idPokemon[4];
-    Ataques ataquesPokemon[4];
-    int defensa;
-    float vida;
     char nombre[25];
+    Ataque ataquesPokemon[4];
+    int defensa;
+    int vida;
 
 };
 

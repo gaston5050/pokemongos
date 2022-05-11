@@ -1,8 +1,19 @@
 #include <iostream>
 //#include "menu.h"
+#include "Gameplay.h"
+#include "FuncionesGlobales.h"
+#include "Pokemon.h"
+#include "Jugador.h"
+#include "Ataque.h"
+
 
 int main()
 {
+ //CREAMOS ATAQUES Y LISTAMOS LOS GRABADOS EN EL LISTADO
+//menuAtaques();
+//CREAMOS LOS POKEMONES Y LE ASIGNAMOS LOS ATAQUES DESDE EL ARCHIVO ATAQUES.DAT
+
+
 
 
 
