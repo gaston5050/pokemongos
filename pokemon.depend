@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1652237287 source:c:\users\anima\onedrive\documentos\pokemongos\pokemon-main\main.cpp
+	<iostream>
+
+1652237287 source:c:\users\anima\onedrive\documentos\pokemongos\pokemon-main\src\gameplay.cpp
+	"Gameplay.h"
+
+1652236909 c:\users\anima\onedrive\documentos\pokemongos\pokemon-main\include\gameplay.h
+
+1652238599 source:c:\users\anima\onedrive\documentos\pokemongos\pokemon-main\src\ataques.cpp
+	<iostream>
+	"Ataques.h"
+
+1652238599 c:\users\anima\onedrive\documentos\pokemongos\pokemon-main\include\ataques.h
+
+1652238960 source:c:\users\anima\onedrive\documentos\pokemongos\pokemon-main\src\funcionesglobales.cpp
+	<iostream>
+	"FuncionesGlobales.h"
+
+1652238599 c:\users\anima\onedrive\documentos\pokemongos\pokemon-main\include\funcionesglobales.h
+	"Ataques.h"
+
+1652237805 source:c:\users\anima\onedrive\documentos\pokemongos\pokemon-main\src\jugador.cpp
+	"Jugador.h"
+
+1652238599 c:\users\anima\onedrive\documentos\pokemongos\pokemon-main\include\jugador.h
+
+1652237849 source:c:\users\anima\onedrive\documentos\pokemongos\pokemon-main\src\pokemon.cpp
+	"Pokemon.h"
+
+1652238613 c:\users\anima\onedrive\documentos\pokemongos\pokemon-main\include\pokemon.h
+
